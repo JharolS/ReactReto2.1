@@ -1,0 +1,52 @@
+.App{
+    padding: 25%;
+    padding-left: 38%;
+    background: rgb(120, 214, 255);
+}
+.row1{
+    display:flex;
+    width: fit-content;
+}
+.row2{
+    display:flex;
+    margin-top: 1em;
+    width: fit-content;
+}
+.city1{
+    border-radius: 2px;
+    width: 45%;
+    background: rgb(153, 0, 255);
+    padding-bottom: 8px;
+}
+.city2{
+    border-radius: 2px;
+    width: 45%;
+    margin-left: 1em;
+    background: rgb(0, 13, 255);
+    padding-bottom: 8px;
+}
+.city3{
+    border-radius: 2px;
+    width: 45%;
+    background: rgb(0, 149, 255);
+    padding-bottom: 8px;
+}
+.city4{
+    border-radius: 2px;
+    width: 45%;
+    margin-left: 1em;
+    background: rgb(1, 125, 86);
+    padding-bottom: 8px;
+}
+.letter{
+    font-size: 5px;
+    color: white;
+    margin-left: 3px;
+    margin-top: 3px;
+}
+.name{
+    font-size:10px;
+    display: flex;
+    justify-content: center;
+    color: white;
+}
